@@ -1,0 +1,6 @@
+elephant
+dolphin
+tiger
+python
+giraffe
+lion
